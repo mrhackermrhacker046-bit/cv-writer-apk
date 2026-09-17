@@ -1,0 +1,6 @@
+{
+  "name": "MineShare",
+  "description": "Professional Minecraft community hub to discover, share, and manage builds, world seeds, redstone blueprints, servers, and tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
